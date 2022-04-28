@@ -1,0 +1,27 @@
+#container{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    border-radius: 90%;
+}
+
+#uno_dos{
+    padding-top: 15px;
+    height: 20rem;
+}
+
+#dos{
+    background-color: rgb(177,221,244);
+    padding-left: 20px;
+    
+}
+
+#madeseis{
+    background-color: rgb(177,221,244);
+    padding-left: 20px;
+}
+
+
+    
